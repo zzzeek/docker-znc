@@ -8,7 +8,7 @@
 
 Version = 1.0
 <Listener l>
-	Port = 6667
+	Port = 6998
 	IPv4 = true
 	IPv6 = true
 	SSL = false
